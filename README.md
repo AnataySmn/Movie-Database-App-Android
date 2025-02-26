@@ -1,0 +1,1 @@
+Developed a feature-rich Movie Search Android application using Java, following MVVM architecture with LiveData and ViewModel for structured state management. Integrated Firebase Firestore for real-time data storage and Firebase Authentication for secure user login and registration.
